@@ -1,0 +1,72 @@
+.Future{
+    color: dodgerblue;
+}
+.web{
+    color: tomato;
+    }
+
+.Power{
+    color: limegreen;
+}
+.Rules{
+    color: hotpink;
+}
+.Guide{
+    color: crimson;
+}
+.Responsive{
+    color: orange;
+}
+.user{
+    color: blueviolet;
+}
+.plain{
+    color: aquamarine;
+}
+.git{
+    color: peachpuff;
+}
+.key{
+color: mediumspringgreen;
+}
+.tricks{
+    background-color: black;
+    color: blue;
+    width: 150px;
+    height: auto;
+    border: none;
+    border-radius: 20px;
+}
+.explore{
+    color: white;
+    background-color: black;
+    width: 150px;
+    height: auto;
+    border: none;
+    border-radius: 20px;
+}
+.examples{
+    color: brown;
+    background-color: burlywood;
+    width: 150px;
+    height: auto;
+    border: none;
+    border-radius: 20px;
+
+}
+.start{
+    width: 150px;
+    height: auto;
+    border: none;
+    border-radius: 20px;
+    color: cadetblue;
+    background-color: chartreuse;
+}
+.Read{
+     background-color: blue;
+    color: black;
+    width: 150px;
+    height: auto;
+    border-radius: 20px;
+    border: none;
+}
